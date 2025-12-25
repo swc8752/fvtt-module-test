@@ -1,14 +1,14 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "duckmodule1125",
+  "title": "test_module",
+  "description": "테스트용 모듈입니다.",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 10,
-    "verified": 10,
-    "maximum": 11
+    "verified": 11,
+    "maximum": 12
   },
   "authors": [
     {
